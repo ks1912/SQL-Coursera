@@ -17,15 +17,25 @@ In this case, you may want to save as a PDF to ensure your formatting remains in
 # 1. Profile the data by finding the total number of records for each of the tables below:
 	
 i. Attribute table =
+
 ii. Business table =
+
 iii. Category table =
+
 iv. Checkin table =
+
 v. elite_years table =
+
 vi. friend table = 
+
 vii. hours table =
+
 viii. photo table = 
+
 ix. review table = 
+
 x. tip table = 
+
 xi. user table =
 	
 
@@ -33,15 +43,25 @@ xi. user table =
 # 2. Find the total distinct records by either the foreign key or primary key for each table. If two foreign keys are listed in the table, please specify which foreign key.
 
 i. Business =
+
 ii. Hours =
+
 iii. Category =
+
 iv. Attribute =
+
 v. Review =
+
 vi. Checkin = 
+
 vii. Photo =
+
 viii. Tip = 
+
 ix. User = 
+
 x. Friend = 
+
 xi. Elite_years =
 
 Note: Primary Keys are denoted in the ER-Diagram with a yellow key icon.	
